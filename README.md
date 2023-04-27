@@ -1,18 +1,10 @@
-# Rust project template
+# Fluida high-performance flow computing toolbox
 
-This Rust project template provides a pre-configured (and probably a bit opinionated) project with all necessary tools to enforce good coding practices.
+Dataflow programming is a nice paradigm for designing and implementint massively distributed systems, like for machine learning pipelines, number-crunching artificial intelligence algorithms implementation and more.
 
-## How to use this project template
+Fluida is an extreme performance computing framework implemented with Rust of safety and efficiency reasons.
 
-In order to use this Rust project template, here are the steps to follow:
-
-- **Create your repo**: start by [creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) from this template for your project, giving the latter a new name.
-
-- **Set your project's title**: replace the title of this REAMDE.md file, with the name of your new project.
-
-- **Set your Git username and email**: so that to put a name on a contribution and be able to contact the author, please [set your Git username and email](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git).
-
-- ... more to come
+This introductory documentation is far from being achieved and will be of course augmented soon. We now focus on implementing, folks :) So be a bit patient :)
 
 ## How can I contribute to this project
 
